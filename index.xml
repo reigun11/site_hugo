@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site do Richard Master </title>
-    <link>http://example.org/</link>
+    <link>http://yukiodesign.com.br/teste/</link>
     <language>en-us</language>
     <author>Richard Master</author>
     <rights>(C) 2017</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>welcome</title>
-          <link>http://example.org/post/welcome/</link>
+          <link>http://yukiodesign.com.br/teste/post/welcome/</link>
           <pubDate>Sun, 16 Apr 2017 17:36:08 BRT</pubDate>
           <author>Richard Master</author>
-          <guid>http://example.org/post/welcome/</guid>
+          <guid>http://yukiodesign.com.br/teste/post/welcome/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
